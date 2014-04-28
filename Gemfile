@@ -48,6 +48,7 @@ group :development, :test do
   gem 'terminal-notifier-guard'
   gem 'shoulda-matchers'
   gem 'capybara'
+  gem 'simplecov', '~> 0.7.1', :require => false
 end
 
 # bundle install
